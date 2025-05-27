@@ -192,7 +192,7 @@ header .menu-icon div {
 }
 
 .search input {
-    background-image: url(assets/searchIcon.png);
+    background-image: url(./assets/searchIcon.png);
     background-repeat: no-repeat;
     background-position: 20px center;
     padding-left: 60px;
